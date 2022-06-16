@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview
 In this project, we are asked to assist with an election audit of a local congressional election provided by the Colorado Board of Elections. The board has asked for additional information, and they were interested in voter turnout for each country, the percentage of votes from each county, and the county with the highest turnout. The board also requested an analysis of the election results and a business proposal on how to use the script in future elections.
